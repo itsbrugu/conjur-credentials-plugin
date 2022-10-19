@@ -70,6 +70,7 @@
 		<dependency>
 		    <groupId>org.jenkins-ci.plugins</groupId>
 		    <artifactId>credentials-binding</artifactId>
+		    <version>1.23</version?
 		</dependency>
         <!-- https://mvnrepository.com/artifact/org.jenkins-ci.modules/instance-identity -->
         <dependency>
